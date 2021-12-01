@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Parth
-title: Android Mobile Application Developer
+title: Mobile Application Developer | Android
 email: jparth0205@gmail.com
 phone: +91 9099360078
 website: https://parthjadav.github.io/resume
@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Vehicle Tracking System
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
